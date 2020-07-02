@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="https://findconvid.netlify.app/"><h1 align="center">Hacker News 360&#176;</h1></a>
+<a target="_blank" rel="noopener noreferrer" href="https://hackernews360.netlify.app/"><h1 align="center">Hacker News 360&#176;</h1></a>
 
  <h2 align="center">A news app powered by the Hackernews API</h2>
  
