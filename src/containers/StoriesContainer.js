@@ -50,7 +50,7 @@ export const StoriesContainer = () => {
             id="github"
             target="_blank"
             rel="noreferrer noopener"
-            href="https://github.com/kaustubh2020/hackernews"
+            href="https://kaustubh-folio.netlify.app/"
           >
             Kaustubh Jaiswal
           </a>
